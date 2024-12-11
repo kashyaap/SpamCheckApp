@@ -1,3 +1,5 @@
 env
 spamchecker/__pycache__
 .env
+
+spamchecker/migrations/__pycache__
