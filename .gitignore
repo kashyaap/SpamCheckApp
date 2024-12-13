@@ -3,3 +3,5 @@ spamchecker/__pycache__
 .env
 
 spamchecker/migrations/__pycache__
+spamchecker/Serializers/__pycache__
+spamchecker/Views/User/__pycache__
